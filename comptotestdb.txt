@@ -17,6 +17,7 @@ com_admin
 com_adsmanager
 com_advancedpoll
 com_advert
+com_affiliatetracker
 com_agora
 com_agoragroup
 com_aicontactsafe
@@ -52,7 +53,7 @@ com_availcal
 com_awd_song
 com_awesom
 com_babackup
-com_banners
+com_jbusinessdirectory
 com_bayesiannaivefilter
 com_bbs
 com_bca-rss-syndicator
@@ -76,10 +77,12 @@ com_bookmarks
 com_books
 com_boss
 com_br
+com_breezingforms
 com_brightweblinks
 com_bsadv
 com_bsq
 com_bsqsitestats
+com_bt_media
 com_bulkenquery
 com_calcbuilder
 com_calendar
@@ -89,9 +92,11 @@ com_candle
 com_car
 com_casino
 com_casinobase
+com_catalog
 com_catalogproduction
 com_catalogshop
 com_category
+com_catfiltering
 com_cbe
 com_ccboard
 com_ccinvoices
@@ -126,6 +131,7 @@ com_contact_enhanced
 com_contactformmaker
 com_contactinfo
 com_content
+com_contenthistory
 com_contushdvideoshare
 com_cpg
 com_creativecontactform
@@ -186,6 +192,7 @@ com_extplorer
 com_extplorer-test1
 com_extplorer-test2
 com_extplorer-test3
+com_extrasearch
 com_ezautos
 com_ezine
 com_ezstore
@@ -239,6 +246,7 @@ com_graphics
 com_grid
 com_gsticketsystem
 com_guide
+com_guru
 com_hashcash
 com_hbssearch
 com_hdflvplayer
@@ -273,6 +281,7 @@ com_jacomment
 com_jashowcase
 com_javoice
 com_jb2
+com_jbpeople
 com_jbudgetsmagic
 com_jcafe
 com_jcalpro
@@ -313,6 +322,7 @@ com_joltcard
 com_jombib
 com_jomdirectory
 com_jomestate
+com_jomres
 com_jomtube
 com_joobb
 com_jooget
@@ -433,6 +443,7 @@ com_mp3
 com_mscomment
 com_mtree
 com_multibanners
+com_music
 com_myalbum
 com_myblog
 com_mycar
@@ -475,6 +486,7 @@ com_oziogallery2
 com_pandafminigames
 com_panoramic
 com_parcoauto
+com_payplans
 com_paxgallery
 com_paxxgallery
 com_pbbooking
@@ -515,6 +527,7 @@ com_properties
 com_propertylab
 com_puarcade
 com_publication
+com_publisher
 com_qcontacts
 com_qpersonel
 com_question
@@ -564,6 +577,7 @@ com_serverstat
 com_sexypolling
 com_seyret
 com_sg
+com_showdown
 com_simple
 com_simpleboard
 com_simpledownload
@@ -573,6 +587,7 @@ com_simplephotogallery
 com_simpleshop
 com_simpleswfupload
 com_sitemap
+com_slider
 com_slideshow
 com_smartsite
 com_smf
@@ -596,10 +611,12 @@ com_tech
 com_techfolio
 com_thopper
 com_thyme
+com_threate
 com_tickets
 com_timereturns
 com_timetrack
 com_tophotelmodule
+com_topics
 com_tour
 com_tpdugg
 com_tpjobs
